@@ -14,12 +14,6 @@
  - 📫 How to reach me: [ahmad.siddiqui@devsinc.com](mailto:ahmad.siddiqui@devsinc.com);
  - 🔗 My linkdeln: [muhammadahmadsiddiqui](https://www.linkedin.com/in/muhammadahmadsiddiqui/)
  
- <br>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekMaira10" alt="AbhishekMaiara10" /> </p>
- 
- </br>
-
 **Languages and Tools:**
 <br>
 
