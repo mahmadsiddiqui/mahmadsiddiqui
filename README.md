@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://twitter.com/coverofmagazine" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/muhammadahmadsiddiqui/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/8q058td4ynjeztfx5io86m5pt" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
@@ -12,7 +12,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
  - 📫 How to reach me: [ahmad.siddiqui@devsinc.com](mailto:ahmad.siddiqui@devsinc.com);
- - 🔗 My linkdeln: [muhammadahmadsiddiqui](https://www.linkedin.com/in/muhammadahmadsiddiqui/)
+ - 🔗 My linkedin: [muhammadahmadsiddiqui](https://www.linkedin.com/in/muhammadahmadsiddiqui/)
  
 **Languages and Tools:**
 <br>
